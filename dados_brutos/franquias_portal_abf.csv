@@ -1,0 +1,49 @@
+﻿nome,segmento,cidade_sede,estado_sede,investimento_min,faturamento_medio_mensal,prazo_retorno_meses,num_unidades,anos_mercado,royalties_pct,tem_selo_excelencia,coletado_em,fonte
+Cacau Show,Alimentacao,Leme,SP,80000,80000,24,4800,34,4.0,True,2026-05-08,referencia_manual_abf_2024
+McDonalds,Alimentacao,Sao Paulo,SP,1500000,600000,48,2700,50,5.0,True,2026-05-08,referencia_manual_abf_2024
+Subway,Alimentacao,Sao Paulo,SP,400000,80000,36,1900,32,8.0,True,2026-05-08,referencia_manual_abf_2024
+Bobs,Alimentacao,Rio de Janeiro,RJ,600000,150000,36,1100,73,5.0,True,2026-05-08,referencia_manual_abf_2024
+Giraffas,Alimentacao,Brasilia,DF,800000,200000,36,400,42,5.0,True,2026-05-08,referencia_manual_abf_2024
+Spoleto,Alimentacao,Rio de Janeiro,RJ,500000,120000,36,300,29,6.0,True,2026-05-08,referencia_manual_abf_2024
+Habibs,Alimentacao,Sao Paulo,SP,500000,200000,36,400,35,5.0,False,2026-05-08,referencia_manual_abf_2024
+Burger King,Alimentacao,Sao Paulo,SP,1500000,500000,48,1000,55,4.5,True,2026-05-08,referencia_manual_abf_2024
+KFC,Alimentacao,Sao Paulo,SP,1500000,400000,48,270,31,5.0,False,2026-05-08,referencia_manual_abf_2024
+AM PM,Alimentacao,Sao Paulo,SP,250000,90000,24,1500,40,0.0,False,2026-05-08,referencia_manual_abf_2024
+Rei do Mate,Alimentacao,Sao Paulo,SP,100000,40000,24,500,49,8.0,True,2026-05-08,referencia_manual_abf_2024
+Vivenda do Camarao,Alimentacao,Sao Paulo,SP,400000,120000,36,100,30,5.0,True,2026-05-08,referencia_manual_abf_2024
+Market4U,Alimentacao,Sao Paulo,SP,40000,11000,5,2200,6,0.0,False,2026-05-08,referencia_manual_abf_2024
+O Boticario,Saude_Beleza,Curitiba,PR,300000,180000,36,3700,46,2.5,True,2026-05-08,referencia_manual_abf_2024
+OdontoCompany,Saude_Beleza,Sao Paulo,SP,200000,120000,30,2000,26,7.0,True,2026-05-08,referencia_manual_abf_2024
+Oticas Carol,Saude_Beleza,Divinopolis,MG,150000,80000,24,1450,38,5.0,True,2026-05-08,referencia_manual_abf_2024
+Espacolaser,Saude_Beleza,Sao Paulo,SP,400000,150000,30,750,27,8.0,True,2026-05-08,referencia_manual_abf_2024
+Clinica da Cidade,Saude_Beleza,Brasilia,DF,800000,300000,36,130,20,5.0,False,2026-05-08,referencia_manual_abf_2024
+Royal Face,Saude_Beleza,Sao Paulo,SP,250000,120000,24,270,7,7.0,False,2026-05-08,referencia_manual_abf_2024
+Farmacias Sao Joao,Saude_Beleza,Porto Alegre,RS,300000,200000,30,400,60,3.0,True,2026-05-08,referencia_manual_abf_2024
+Kumon,Educacao,Sao Paulo,SP,50000,30000,18,1600,40,0.0,True,2026-05-08,referencia_manual_abf_2024
+Wizard,Educacao,Sao Paulo,SP,100000,40000,24,1050,35,10.0,True,2026-05-08,referencia_manual_abf_2024
+CCAA,Educacao,Rio de Janeiro,RJ,120000,35000,24,900,54,10.0,True,2026-05-08,referencia_manual_abf_2024
+Fisk,Educacao,Sao Paulo,SP,100000,30000,24,850,68,10.0,True,2026-05-08,referencia_manual_abf_2024
+inFlux,Educacao,Sao Paulo,SP,80000,30000,24,300,26,10.0,True,2026-05-08,referencia_manual_abf_2024
+Microlins,Educacao,Sao Paulo,SP,50000,20000,18,500,32,8.0,False,2026-05-08,referencia_manual_abf_2024
+Localiza,Servicos,Belo Horizonte,MG,500000,200000,36,700,52,6.0,True,2026-05-08,referencia_manual_abf_2024
+Prudential,Servicos,Sao Paulo,SP,30000,15000,12,2000,65,0.0,True,2026-05-08,referencia_manual_abf_2024
+Seguralta,Servicos,Porto Alegre,RS,35000,18000,12,1800,28,0.0,True,2026-05-08,referencia_manual_abf_2024
+Correios,Servicos,Brasilia,DF,80000,30000,24,600,360,0.0,False,2026-05-08,referencia_manual_abf_2024
+Chilli Beans,Moda,Sao Paulo,SP,200000,80000,30,800,26,5.0,True,2026-05-08,referencia_manual_abf_2024
+Hering Store,Moda,Blumenau,SC,300000,100000,36,550,145,4.0,True,2026-05-08,referencia_manual_abf_2024
+Arezzo,Moda,Belo Horizonte,MG,250000,120000,30,600,51,4.0,True,2026-05-08,referencia_manual_abf_2024
+Dudalina,Moda,Blumenau,SC,200000,80000,30,200,65,4.0,True,2026-05-08,referencia_manual_abf_2024
+Colchoes Ortobom,Casa_Construcao,Maringa,PR,150000,80000,24,2500,50,3.0,True,2026-05-08,referencia_manual_abf_2024
+Casa do Construtor,Casa_Construcao,Cascavel,PR,499000,90000,39,760,38,4.0,True,2026-05-08,referencia_manual_abf_2024
+iGUi Piscinas,Casa_Construcao,Sao Paulo,SP,200000,80000,30,450,52,5.0,True,2026-05-08,referencia_manual_abf_2024
+Multicoisas,Casa_Construcao,Sao Paulo,SP,150000,60000,30,800,40,4.0,True,2026-05-08,referencia_manual_abf_2024
+Kinsol,Casa_Construcao,Fortaleza,CE,10000,20000,6,800,12,0.0,False,2026-05-08,referencia_manual_abf_2024
+AcquaZero,Servicos_Automotivos,Sao Paulo,SP,80000,35000,18,630,16,6.0,True,2026-05-08,referencia_manual_abf_2024
+Car System,Servicos_Automotivos,Sao Paulo,SP,100000,45000,24,450,28,7.0,True,2026-05-08,referencia_manual_abf_2024
+Lubrax+,Servicos_Automotivos,Rio de Janeiro,RJ,150000,60000,24,400,20,4.0,True,2026-05-08,referencia_manual_abf_2024
+Maria Brasileira,Limpeza,Sao Paulo,SP,41000,63000,12,500,15,8.0,True,2026-05-08,referencia_manual_abf_2024
+60 Minutos Lavanderia,Limpeza,Sao Paulo,SP,120000,45000,24,680,8,6.0,False,2026-05-08,referencia_manual_abf_2024
+Dona Help,Limpeza,Sao Paulo,SP,41000,63000,12,250,10,8.0,False,2026-05-08,referencia_manual_abf_2024
+CVC,Hotelaria,Santo Andre,SP,200000,80000,30,1200,51,5.0,True,2026-05-08,referencia_manual_abf_2024
+Flytour,Hotelaria,Sao Paulo,SP,100000,40000,24,150,45,6.0,True,2026-05-08,referencia_manual_abf_2024
+Vai Voando,Hotelaria,Sao Paulo,SP,30000,15000,12,200,10,8.0,False,2026-05-08,referencia_manual_abf_2024

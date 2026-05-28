@@ -1,0 +1,118 @@
+{
+  "modelo_selecionado": "Random Forest",
+  "features_usadas": [
+    "pop_log",
+    "pib_norm",
+    "idh",
+    "regiao_cod",
+    "inv_log",
+    "porte_cod",
+    "segmento_cod",
+    "anos_mercado",
+    "num_unidades",
+    "retorno_norm",
+    "taxa_sobrevivencia_segmento"
+  ],
+  "n_franquias_treino": 36,
+  "n_franquias_teste": 12,
+  "resultados": {
+    "Regressão Logística": {
+      "roc_auc": 0.8286,
+      "accuracy": 0.75,
+      "roc_auc_cv": 0.79,
+      "classification_report": {
+        "0": {
+          "precision": 0.75,
+          "recall": 0.6,
+          "f1-score": 0.6666666666666666,
+          "support": 5.0
+        },
+        "1": {
+          "precision": 0.75,
+          "recall": 0.8571428571428571,
+          "f1-score": 0.8,
+          "support": 7.0
+        },
+        "accuracy": 0.75,
+        "macro avg": {
+          "precision": 0.75,
+          "recall": 0.7285714285714285,
+          "f1-score": 0.7333333333333334,
+          "support": 12.0
+        },
+        "weighted avg": {
+          "precision": 0.75,
+          "recall": 0.75,
+          "f1-score": 0.7444444444444445,
+          "support": 12.0
+        }
+      }
+    },
+    "Random Forest": {
+      "roc_auc": 0.7714,
+      "accuracy": 0.75,
+      "roc_auc_cv": 0.8867,
+      "classification_report": {
+        "0": {
+          "precision": 0.75,
+          "recall": 0.6,
+          "f1-score": 0.6666666666666666,
+          "support": 5.0
+        },
+        "1": {
+          "precision": 0.75,
+          "recall": 0.8571428571428571,
+          "f1-score": 0.8,
+          "support": 7.0
+        },
+        "accuracy": 0.75,
+        "macro avg": {
+          "precision": 0.75,
+          "recall": 0.7285714285714285,
+          "f1-score": 0.7333333333333334,
+          "support": 12.0
+        },
+        "weighted avg": {
+          "precision": 0.75,
+          "recall": 0.75,
+          "f1-score": 0.7444444444444445,
+          "support": 12.0
+        }
+      }
+    },
+    "Gradient Boosting": {
+      "roc_auc": 0.8143,
+      "accuracy": 0.6667,
+      "roc_auc_cv": 0.8092,
+      "classification_report": {
+        "0": {
+          "precision": 0.6666666666666666,
+          "recall": 0.4,
+          "f1-score": 0.5,
+          "support": 5.0
+        },
+        "1": {
+          "precision": 0.6666666666666666,
+          "recall": 0.8571428571428571,
+          "f1-score": 0.75,
+          "support": 7.0
+        },
+        "accuracy": 0.6666666666666666,
+        "macro avg": {
+          "precision": 0.6666666666666666,
+          "recall": 0.6285714285714286,
+          "f1-score": 0.625,
+          "support": 12.0
+        },
+        "weighted avg": {
+          "precision": 0.6666666666666666,
+          "recall": 0.6666666666666666,
+          "f1-score": 0.6458333333333334,
+          "support": 12.0
+        }
+      }
+    }
+  },
+  "score_medio_base": 57.6,
+  "score_mediano_base": 76.0
+}

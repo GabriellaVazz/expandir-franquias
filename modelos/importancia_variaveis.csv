@@ -1,0 +1,12 @@
+variavel,importancia,variavel_amigavel
+num_unidades,0.4210402483677501,Número de unidades
+anos_mercado,0.18210171726003102,Tempo de mercado (anos)
+inv_log,0.12886621286877417,Investimento inicial (log)
+segmento_cod,0.06465739749496721,Segmento de atuação
+pib_norm,0.05128353359003781,PIB per capita
+retorno_norm,0.04229881855981358,Velocidade de retorno
+idh,0.03931008304069179,IDH do município
+regiao_cod,0.023894018753684854,Região geográfica
+pop_log,0.021321338419424036,População do município (log)
+porte_cod,0.020277008782389753,Porte da franquia
+taxa_sobrevivencia_segmento,0.004949622862435777,Taxa de sobrevivência do segmento (SEBRAE)
