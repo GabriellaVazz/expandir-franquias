@@ -39,6 +39,10 @@ html, body, [class*="css"], .stApp {
     background: #0D1B2A !important;
     border-right: 1px solid #1E3450 !important;
 }
+[data-testid="stSidebarCollapseButton"],
+[data-testid="collapsedControl"] {
+    display: none !important;
+}
 [data-testid="stSidebar"] label,
 [data-testid="stSidebar"] p,
 [data-testid="stSidebar"] span,
